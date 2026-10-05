@@ -1,5 +1,6 @@
 """
 Critieria for flagging things in provided text files; these aren't true clinical guidelines, only use is for learing project.
+Critieria are put in a seperate file so that rules can be easily modified without changing core logic & customed per practice.
 """
 
 CRITERIA = {
