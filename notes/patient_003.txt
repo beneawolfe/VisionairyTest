@@ -1,0 +1,8 @@
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-09
+CC: Burning, gritty eyes.
+HPI: 58yo F with dry eye, using artificial tears QID for 8 months with minimal relief.
+Also tried warm compresses. Symptoms worse with screen use.
+Exam: TBUT 4 sec OU. Schirmer 4mm OU. Inferior punctate staining OU.
+Assessment: Moderate aqueous-deficient dry eye OU, refractory to tears.
+Plan: Continue artificial tears. RTC 3 months.

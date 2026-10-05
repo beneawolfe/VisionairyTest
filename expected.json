@@ -1,0 +1,7 @@
+{
+  "patient_001.txt": ["visual_field_test"],
+  "patient_002.txt": ["toric_iol"],
+  "patient_003.txt": ["punctal_occlusion"],
+  "patient_004.txt": [],
+  "patient_005.txt": ["slt"]
+}

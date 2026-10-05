@@ -1,0 +1,9 @@
+Patient 001 · TXT
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-02
+CC: Routine follow-up, glaucoma suspect.
+HPI: 67yo F returns for IOP check. Family hx of glaucoma (mother). No eye pain.
+Exam: IOP 24 OD / 23 OS by applanation. C/D ratio 0.6 OU, slightly asymmetric rim.
+Angles open on gonioscopy. Last visual field: none on file.
+Assessment: Glaucoma suspect OU, elevated IOP.
+Plan: Discussed findings. Return in 4 months.

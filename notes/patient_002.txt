@@ -1,0 +1,8 @@
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-05
+CC: Blurry vision, glare driving at night.
+HPI: 72yo M, gradual decline in vision OD over 1 year, difficulty reading signs.
+Exam: VA 20/60 OD, 20/30 OS. 3+ nuclear sclerotic cataract OD.
+Keratometry OD: 42.25 @ 180 / 44.00 @ 090 (1.75 D regular corneal astigmatism).
+Assessment: Visually significant cataract OD.
+Plan: Schedule cataract surgery OD. Standard monofocal IOL discussed.

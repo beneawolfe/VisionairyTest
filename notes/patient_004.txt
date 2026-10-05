@@ -1,0 +1,7 @@
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-11
+CC: Annual exam.
+HPI: 34yo M, no complaints. Wears glasses for myopia.
+Exam: VA 20/20 OU with correction. IOP 15 OU. C/D 0.3 OU. Lens clear OU.
+Assessment: Myopia OU, healthy eye exam.
+Plan: Updated glasses Rx. Return in 1 year.

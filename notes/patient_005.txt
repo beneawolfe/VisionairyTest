@@ -1,0 +1,9 @@
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-14
+CC: Glaucoma follow-up.
+HPI: 70yo M with primary open-angle glaucoma OU on latanoprost and timolol.
+Reports frequently forgetting drops; also complains of red eyes from latanoprost.
+Exam: IOP 25 OD / 22 OS (target < 18). Angles open.
+Visual field 2 months ago: early superior arcuate defect OD.
+Assessment: POAG OU, above target pressure on two medications.
+Plan: Continue current drops. RTC 6 weeks.

@@ -1,0 +1,37 @@
+{
+  "patient_001.txt": [
+    {
+      "confidence": "high",
+      "criterion": "visual_field_test",
+      "evidence": "Glaucoma suspect OU, elevated IOP. Last visual field: none on file.",
+      "reasoning": "The patient is identified as a glaucoma suspect with elevated intraocular pressures and an asymmetric cup-to-disc ratio, meeting the suspect criteria. The note explicitly states that there is no visual field test on file, indicating the test has not been performed in the past 12 months. Therefore, a visual field test should be ordered."
+    }
+  ],
+  "patient_002.txt": [
+    {
+      "confidence": "high",
+      "criterion": "toric_iol",
+      "evidence": "Keratometry OD: 42.25 @ 180 / 44.00 @ 090 (1.75 D regular corneal astigmatism). Plan: Schedule cataract surgery OD. Standard monofocal IOL discussed.",
+      "reasoning": "The patient is planned for cataract surgery and has regular corneal astigmatism of 1.75 D, which meets the threshold of ~1.0 D. The plan mentions a standard monofocal IOL, indicating a toric IOL has not been discussed or chosen."
+    }
+  ],
+  "patient_003.txt": [
+    {
+      "confidence": "high",
+      "criterion": "punctal_occlusion",
+      "evidence": "Schirmer 4mm OU. Inferior punctate staining OU. Assessment: Moderate aqueous-deficient dry eye OU, refractory to tears.",
+      "reasoning": "The patient has aqueous-deficient dry eye (low Schirmer, staining) with persistent symptoms despite artificial tears, and there is no mention of punctal plugs being placed or planned, meeting the criteria for punctal occlusion."
+    }
+  ],
+  "patient_004.txt": {
+    "error": "Error code: 400 - {'error': {'message': 'Tool choice is required, but model did not call a tool', 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '[]'}}"
+  },
+  "patient_005.txt": [
+    {
+      "confidence": "high",
+      "criterion": "slt",
+      "evidence": "IOP 25 OD / 22 OS (target < 18). ... Reports frequently forgetting drops; also complains of red eyes from latanoprost. Assessment: POAG OU, above target pressure on two medications.",
+      "reasoning": "Patient has open-angle glaucoma with IOP above target despite two topical medications and reports poor adherence and side effects, and there is no SLT scheduled in the plan."
+    }
+  ]
+}
