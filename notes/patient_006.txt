@@ -1,0 +1,9 @@
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-18
+CC: Glaucoma follow-up.
+HPI: 66yo F with primary open-angle glaucoma OU on dorzolamide-timolol.
+Underwent SLT OU in January 2026 with good tolerance.
+Exam: IOP 21 OD / 20 OS (target < 18). Angles open.
+Visual field 1 month ago: stable mild inferior defect OS.
+Assessment: POAG OU, IOP still above target after SLT.
+Plan: Add brimonidine. RTC 6 weeks.

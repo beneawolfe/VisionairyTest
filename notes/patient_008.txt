@@ -1,0 +1,10 @@
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-23
+CC: Glaucoma check, dry irritated eyes.
+HPI: 69yo F with primary open-angle glaucoma OU on latanoprost and timolol.
+Reports burning with drops. Also using artificial tears 4-5x daily for over a year without relief.
+Exam: IOP 23 OD / 24 OS (target < 17). Angles open.
+Schirmer 3mm OU. Diffuse inferior punctate staining OU. TBUT 5 sec.
+Visual field 4 months ago: early nasal step OD, stable.
+Assessment: POAG OU above target on two medications. Aqueous-deficient dry eye OU, refractory.
+Plan: Continue drops and tears. RTC 2 months.

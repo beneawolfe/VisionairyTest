@@ -3,5 +3,9 @@
   "patient_002.txt": ["toric_iol"],
   "patient_003.txt": ["punctal_occlusion"],
   "patient_004.txt": [],
-  "patient_005.txt": ["slt"]
+  "patient_005.txt": ["slt"],
+  "patient_006.txt": [],
+  "patient_007.txt": [],
+  "patient_008.txt": ["slt", "punctal_occlusion"],
+  "patient_009.txt": ["visual_field_test"]
 }

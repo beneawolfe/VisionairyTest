@@ -1,0 +1,8 @@
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-19
+CC: Worsening vision OS.
+HPI: 61yo M with known keratoconus OU, now with progressive glare and blur OS.
+Exam: VA 20/80 OS. 3+ nuclear sclerotic cataract OS.
+Topography OS: 2.25 D irregular astigmatism with inferior steepening consistent with keratoconus.
+Assessment: Visually significant cataract OS; keratoconus OU.
+Plan: Schedule cataract surgery OS. Monofocal IOL planned given irregular cornea.

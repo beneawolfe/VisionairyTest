@@ -1,0 +1,8 @@
+SYNTHETIC NOTE - NOT A REAL PATIENT
+Visit date: 2026-03-25
+CC: Glaucoma suspect follow-up.
+HPI: 58yo M followed for suspicious optic nerves. Brother has glaucoma.
+Exam: IOP 22 OD / 21 OS. C/D ratio 0.65 OD, 0.55 OS. Angles open.
+Last visual field: 2025-01-14, full OU.
+Assessment: Glaucoma suspect OU.
+Plan: Monitor. RTC 6 months.
