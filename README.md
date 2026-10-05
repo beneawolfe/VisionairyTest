@@ -11,11 +11,11 @@ In order to run the program, clone this repository by using Git.
 
 2) Run the following commands in Windows PowerShell or the terminal of your IDE (which can run Python). These commands will set up the appropriate virtual environment to run the program. 
 
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
+a) python -m venv venv 
+b) venv\Scripts\activate
+c) pip install -r requirements.txt
 
 3) Run the following commands. The flagger program will look through the provided patient files in the "notes" folder and run them through the Groq API, rewriting the results.json file accordingly. The evalute program will score the results against the expected output in expected.json.
 
-python flagger.py
-python resutls.json
+a) python flagger.py
+b) python resutls.json
