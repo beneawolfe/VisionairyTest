@@ -1,7 +1,7 @@
 # VisionairyTest
 Goal: The goal of this repository was to imitate the core functionalities of Visionairy's AI-processing.
 
-Essentially, this is a Python project that uses an open-source LLM API (in this case Groq) to read opthalmology clinical notes and flag patietns who may need tests or procedures. For example, flags I tested for were visual field tests, SLT, punctal occlusion, and toric IOL. An evaluation script measures the precision and recall against a pre-determined answer key.
+Essentially, this is a Python project that uses an open-source LLM API (in this case Groq) to read opthalmology clinical notes and flag patients who may need tests or procedures. For example, flags I tested for were visual field tests, SLT, punctal occlusion, and toric IOL. An evaluation file/script measures the precision and recall against a pre-determined answer key.
 
 It's important to note that all of the "patient_00x" text files are self-fabricated and the criteria/flags are simplified and based on amateur research. Also, because my project uses a free API and is not HIPPA-compliant, real patient files should NOT be inputted in the program.
 
