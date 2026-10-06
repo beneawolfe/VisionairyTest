@@ -1,17 +1,17 @@
 # VisionairyTest
-Goal: The goal of this repository was to imitate the core functionalities of Visionairy's AI-processing.
+Goal: The goal of this repository was to imitate the core functionalities of Visionairy's AI-processing, based on limited prior knowledge of core processes.
 
-Essentially, this is a Python project that uses an open-source LLM API (in this case Groq) to read opthalmology clinical notes and flag patients who may need tests or procedures. For example, flags I tested for were visual field tests, SLT, punctal occlusion, and toric IOL. An evaluation file/script measures the precision and recall against a pre-determined answer key.
+Essentially, this is a Python project that uses an open-source LLM API (in this case Groq) to read opthalmology clinical notes and flag patients who may need tests or procedures, imitating what I believe Visionairy's process would look like. For example, flags I tested for were visual field tests, SLT, punctal occlusion, and toric IOL. An evaluation file/script measures the precision and recall against a pre-determined answer key for internal testing (to make sure the Groq API reads and processes the data correctly). The Groq API is compatible with various LLM models but my project is configured to use one of OpenAI's.
 
-It's important to note that all of the "patient_00x" text files are self-fabricated and the criteria/flags are simplified and based on amateur research. Also, because my project uses a free API and is not HIPPA-compliant, real patient files should NOT be inputted in the program.
+It's important to note that all of the "patient_00x" text files are self-fabricated by ChatGPT, and the criteria/flags are simplified for the purposes my project. Also, because my project uses a free API and is not HIPPA-compliant, real patient files should *not* be inputted in the program.
 
 ## Running the Program
 
 ### 1. First, clone the repository by using Git. Navigate into the repository.
 
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git 
-cd YOUR-REPO-NAME
+git clone https://github.com/beneawolfe/VisionairyTest.git [folder/directory name]
+cd [folder/directory name]
 ```
 
 ### 2. Get a Groq API key. 
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 > On macOS/Linux, activate with `source venv/bin/activate` instead.
 
 ### 4. Run the program
-The flagger.py file will read each patient note in the `notes/` folder, send it to teh Groq API to go through the data, and save each evaluated flag to `results.json`. This process overwrites any previous results. `evaluate.py` scores those results against the answer key in `expected.json`, reporting precision, recall, and any mistakes.
+The flagger.py file will read each patient note in the `notes/` folder, send it to the Groq API to go through the data, and save each evaluated flag to `results.json`. This process overwrites any previous results. `evaluate.py` scores those results against the answer key in `expected.json`, reporting precision, recall, and any mistakes.
 
 ```
 python flagger.py
